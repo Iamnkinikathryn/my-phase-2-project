@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "university": "",
+      "location": "",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Bob",
+      "university": "Kenyatta University",
+      "location": "Nairobi",
+      "hobbies": [
+        "Gaming",
+        "Hiking",
+        "Photography"
+      ],
+      "phoneNumber": "254700222333"
+    },
+    {
+      "id": "3",
+      "firstName": "Carol",
+      "university": "Moi University",
+      "location": "Eldoret",
+      "hobbies": [
+        "Singing",
+        "Gardening",
+        "Chess"
+      ],
+      "phoneNumber": "254700333444"
+    },
+    {
+      "id": "4",
+      "firstName": "David",
+      "university": "Technical University of Kenya",
+      "location": "Nairobi",
+      "hobbies": [
+        "Cycling",
+        "Tech DIYs",
+        "Traveling"
+      ],
+      "phoneNumber": "254700444555"
+    },
+    {
+      "id": "5",
+      "firstName": "Eve",
+      "university": "Jomo Kenyatta University of Agriculture and Technology",
+      "location": "Thika",
+      "hobbies": [
+        "Cooking",
+        "Reading Sci-Fi",
+        "Painting"
+      ],
+      "phoneNumber": "0700555666"
+    },
+    {
+      "id": "6",
+      "firstName": "Frank",
+      "university": "Maseno University",
+      "location": "Kisumu",
+      "hobbies": [
+        "Swimming",
+        "Bird Watching",
+        "Traveling"
+      ],
+      "phoneNumber": "07700666777"
+    },
+    {
+      "id": "7",
+      "firstName": "Grace",
+      "university": "Egerton University",
+      "location": "Njoro",
+      "hobbies": [
+        "Knitting",
+        "Creative Writing",
+        "Yoga"
+      ],
+      "phoneNumber": "254700777888"
+    },
+    {
+      "id": "8",
+      "firstName": "Henry",
+      "university": "Africa Nazarene University",
+      "location": "Ongata Rongai",
+      "hobbies": [
+        "Martial Arts",
+        "Cooking",
+        "Video Games"
+      ],
+      "phoneNumber": "254700888999"
+    },
+    {
+      "id": "9",
+      "firstName": "Ivy",
+      "university": "Daystar University",
+      "location": "Athi River",
+      "hobbies": [
+        "Photography",
+        "Traveling",
+        "Reading"
+      ],
+      "phoneNumber": "254700999000"
+    },
+    {
+      "id": "10",
+      "firstName": "Mitchel",
+      "university": "Strathmore University",
+      "location": "Nairobi",
+      "hobbies": [
+        "Rock Climbing",
+        "Web Development",
+        "Volunteering"
+      ],
+      "phoneNumber": "254701000111"
+    },
+    {
+      "id": "7ef6",
+      "firstName": "",
+      "phoneNumber": "",
+      "university": "",
+      "location": "",
+      "hobbies": ""
+    },
+    {
+      "id": "e04c",
+      "firstName": "Katherin",
+      "phoneNumber": "Nkini",
+      "university": "JKUAT",
+      "location": "Juja",
+      "hobbies": [
+        "Singing",
+        "Dancing"
+      ]
+    },
+    {
+      "id": "898b",
+      "firstName": "Joseph",
+      "phoneNumber": "0700545727",
+      "university": "University of Nairobi",
+      "location": "Nairobi",
+      "hobbies": [
+        "Cooking",
+        "Eating"
+      ]
+    }
+  ]
+}

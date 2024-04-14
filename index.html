@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Roomie Link</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="register-btn">
+        <button id="register-btn">Register</button>
+        <button id="login-btn">Login</button>
+    </div>
+    <div class="header">
+        <h1>Roomie-Link</h1>
+        <p><i>Find a suitable roommate</i></p>
+    </div>
+    <div class="form-control">
+        <label for="userName">Enter User Name:</label>
+        <input type="text" id="userName" placeholder="Enter first name">
+        <button id="matchButton">Find Match</button>
+    </div>
+    <div class="form-control" id="matchResult">
+        <h2>Matching User:</h2>
+        <p id="matchName"></p>
+        <p id="matchUniversity"></p>
+        <p id="matchLocation"></p>
+        <p id="matchHobbies"></p>
+        <p id="matchPhone"></p>
+        <button id="updateButton">Update User</button>
+    </div>
+    <div id="register-form" class="register-form register-form-hide">
+        <div>
+            <label>First name</label>
+            <input type="text" id="first_name"/>
+        </div>
+        <div>
+            <label>Phone number</label>
+            <input type="text" id="phone_number"/>
+        </div>
+        <div>
+            <label>University</label>
+            <input type="text" id="university"/>
+        </div>
+        <div>
+            <label>Location</label>
+            <input type="text" id="location"/>
+        </div>
+        <div>
+            <label>Hobbies (comma separated)</label>
+            <input type="text" id="hobbies"/>
+        </div>
+        <div>
+            <button id="submit-register-btn">Register</button>
+        </div>
+    </div>
+    <div id="login-form" class="form-control login-form login-form-hide">
+        <div>
+            <label>Enter first name to login</label>
+            <input type="text" id="first_name_login"/>
+        </div>
+        <div>
+            <button id="submit-login-btn">Login</button>
+        </div>
+    </div>
+    <div id="update-form" class="form-control update-form register-form-hide">
+        <div>
+            <label>First name</label>
+            <input type="text" id="update_first_name"/>
+        </div>
+        <div>
+            <label>Last name</label>
+            <input type="text" id="update_last_name"/>
+        </div>
+        <div>
+            <label>University</label>
+            <input type="text" id="update_university"/>
+        </div>
+        <div>
+            <label>Location</label>
+            <input type="text" id="update_location"/>
+        </div>
+        <div>
+            <button id="submit-update-btn">Update User</button>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

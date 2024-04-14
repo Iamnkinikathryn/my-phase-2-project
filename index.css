@@ -1,0 +1,133 @@
+* {
+    background-color: skyblue;
+}
+.header {
+    margin: 0 auto;
+    width: 420px;
+    text-align: center;
+}
+.register-form-hide {
+    display: none;
+}
+.register-form-show {
+    display: block;
+}
+.register-form {
+    width: 420px;
+    margin: 12px auto;
+    border: none;
+    padding: 16px 12px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: aliceblue;
+}
+.register-form label, input {
+    padding: 13px;
+    border-radius: 6px;
+    border: 1px solid darkgray;
+    background-color: aliceblue;
+}
+.register-form div {
+    background-color: aliceblue;
+    margin-bottom: 12px;
+}
+.register-form button {
+    display: inline-block;
+    padding: 12px;
+    background: blue;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.form-control {
+    width: 420px;
+    margin: 12px auto;
+    border: none;
+    padding: 16px 12px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: aliceblue;
+ }
+.form-control label {
+    display: block;
+    margin-bottom: 8px;
+    background-color: aliceblue;
+}
+.form-control input {
+    padding: 13px;
+    border-radius: 6px;
+    border: 1px solid darkgray;
+    background-color: aliceblue;
+}
+.form-control button {
+    display: inline-block;
+    padding: 12px;
+    background: blue;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+}
+button {
+    display: inline-block;
+    padding: 12px;
+    background: blue;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+    margin: 6px;
+}
+.form-control h2 {
+    text-align: center;
+    background-color: aliceblue;
+}
+.form-control p {
+    background-color: aliceblue;
+}
+.register-btn button{
+    float: right;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: blue;
+    color: white;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.display-none {
+    display: none;
+}
+.login-form-hide {
+    display: none;
+}
+.login-form-show {
+    width: 420px;
+    margin: 12px auto;
+    border: none;
+    padding: 16px 12px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: aliceblue;
+    display: block;
+}
+.login-form-show, label, input, div {
+    background-color: aliceblue;
+}
+button:hover{
+    opacity:.6;
+    transition: .3s ease-in;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+background-color: yellow;
+color: black;
+}
+.register-form-hide {
+    display: none;
+}
